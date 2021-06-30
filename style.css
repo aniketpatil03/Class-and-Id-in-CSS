@@ -1,0 +1,28 @@
+/*-------tag selectors--------*/
+
+h1 {
+    background-color: sandybrown; /*-- It is advised to write properties in alphabetical order as easy to debug*/
+    color:red;
+}
+
+img:hover {
+    background-color: indigo;
+
+}
+
+/*-------class selectors--------*/
+
+.bacon {
+
+    background-color: red;
+}
+
+.broccoli {
+    background-color: green;
+}
+
+/*-------id selectors--------*/
+#heading {
+    background-color: greenyellow;          
+}
+
